@@ -1,0 +1,1 @@
+# stackoverflow-translation-sites-for-chrome
