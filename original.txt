@@ -1,14 +1,13 @@
 qastack.jp
-www.it-swarm-ja.tech
-www.it-swarm.dev
-www.it-swarm.jp.net
+it-swarm-ja.*
+it-swarm.*
 python5.com 
 projobs.tistory.com
 www.javaer101.com
 codehero.jp
 code-examples.net
 www.366service.com
-stackoverrun.com
+stackovergo.com
 www.voidcc.com
 qa.codeflow.site
 code.i-harness.com
